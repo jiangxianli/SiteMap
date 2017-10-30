@@ -1,0 +1,19 @@
+{
+    "name": "jiangxianli/sitemap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangxianli",
+            "email": "997204035@qq.com",
+            "homepage": "https://github.com/jiangxianli"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jiangxianli/Sitemap\\": "src/"
+        }
+    }
+}
