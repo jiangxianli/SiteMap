@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jiangxianli/Sitemap\\": "src/"
+            "Jiangxianli\\SiteMap\\": "src/"
         }
     }
 }
